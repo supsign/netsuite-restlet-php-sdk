@@ -1,10 +1,8 @@
-[![Tests](https://github.com/nebkam/netsuite-restlet-php-sdk/actions/workflows/tests.yml/badge.svg)](https://github.com/nebkam/netsuite-restlet-php-sdk/actions/workflows/tests.yml)
-[![Latest Stable Version](https://poser.pugx.org/infostud/netsuite-sdk/v)](//packagist.org/packages/infostud/netsuite-sdk)
+# General
+This is a Fork from Supsign GmbH to use this package with PHP 8.0. It depends on the improvement of the forked package if we some day open an Pull-Request.
 
 # Setup
-PHP ^7.2 compatible
-
-For PHP ^5.6 compatibility, see [`v1` branch](https://github.com/nebkam/netsuite-restlet-php-sdk/tree/v1)
+PHP 8.0+ compatible
 
 ## Symfony 3.4+
 - Run `composer require infostud/netsuite-sdk:^2`
